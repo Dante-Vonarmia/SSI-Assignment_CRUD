@@ -26,3 +26,7 @@
 - [x] Add favoriate items
 - [x] Check favorite items (Modal layer)
 - [x] Pagination section
+
+### Bonus
+---
+> Try to make me a beautiful one. ;)
